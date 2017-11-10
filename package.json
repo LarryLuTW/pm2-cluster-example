@@ -1,0 +1,11 @@
+{
+  "name": "pm2-cluster-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Larry850806/pm2-cluster-example",
+  "author": "Larry Lu <pudding850806@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
